@@ -1,0 +1,9 @@
+D:\doc\c#\Activated\bin\Debug\Activated.exe.config
+D:\doc\c#\Activated\bin\Debug\Activated.exe
+D:\doc\c#\Activated\bin\Debug\Activated.pdb
+D:\doc\c#\Activated\obj\Debug\Activated.Form1.resources
+D:\doc\c#\Activated\obj\Debug\Activated.Properties.Resources.resources
+D:\doc\c#\Activated\obj\Debug\Activated.csproj.GenerateResource.cache
+D:\doc\c#\Activated\obj\Debug\Activated.csproj.CoreCompileInputs.cache
+D:\doc\c#\Activated\obj\Debug\Activated.exe
+D:\doc\c#\Activated\obj\Debug\Activated.pdb

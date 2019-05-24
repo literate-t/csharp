@@ -1,0 +1,10 @@
+D:\doc\c#\Curve\bin\Debug\Curve.exe.config
+D:\doc\c#\Curve\bin\Debug\Curve.exe
+D:\doc\c#\Curve\bin\Debug\Curve.pdb
+D:\doc\c#\Curve\obj\Debug\Curve.csprojAssemblyReference.cache
+D:\doc\c#\Curve\obj\Debug\Curve.Form1.resources
+D:\doc\c#\Curve\obj\Debug\Curve.Properties.Resources.resources
+D:\doc\c#\Curve\obj\Debug\Curve.csproj.GenerateResource.cache
+D:\doc\c#\Curve\obj\Debug\Curve.csproj.CoreCompileInputs.cache
+D:\doc\c#\Curve\obj\Debug\Curve.exe
+D:\doc\c#\Curve\obj\Debug\Curve.pdb

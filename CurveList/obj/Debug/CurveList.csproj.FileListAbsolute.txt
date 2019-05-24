@@ -1,0 +1,9 @@
+D:\doc\c#\CurveList\bin\Debug\CurveList.exe.config
+D:\doc\c#\CurveList\bin\Debug\CurveList.exe
+D:\doc\c#\CurveList\bin\Debug\CurveList.pdb
+D:\doc\c#\CurveList\obj\Debug\CurveList.Form1.resources
+D:\doc\c#\CurveList\obj\Debug\CurveList.Properties.Resources.resources
+D:\doc\c#\CurveList\obj\Debug\CurveList.csproj.GenerateResource.cache
+D:\doc\c#\CurveList\obj\Debug\CurveList.csproj.CoreCompileInputs.cache
+D:\doc\c#\CurveList\obj\Debug\CurveList.exe
+D:\doc\c#\CurveList\obj\Debug\CurveList.pdb

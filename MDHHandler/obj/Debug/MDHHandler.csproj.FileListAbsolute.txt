@@ -1,0 +1,7 @@
+D:\doc\c#\MDHHandler\bin\Debug\MDHHandler.exe.config
+D:\doc\c#\MDHHandler\bin\Debug\MDHHandler.exe
+D:\doc\c#\MDHHandler\bin\Debug\MDHHandler.pdb
+D:\doc\c#\MDHHandler\obj\Debug\MDHHandler.csprojAssemblyReference.cache
+D:\doc\c#\MDHHandler\obj\Debug\MDHHandler.csproj.CoreCompileInputs.cache
+D:\doc\c#\MDHHandler\obj\Debug\MDHHandler.exe
+D:\doc\c#\MDHHandler\obj\Debug\MDHHandler.pdb

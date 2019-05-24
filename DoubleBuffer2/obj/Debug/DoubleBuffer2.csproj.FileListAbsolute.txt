@@ -1,0 +1,10 @@
+D:\doc\c#\DoubleBuffer2\bin\Debug\DoubleBuffer2.exe.config
+D:\doc\c#\DoubleBuffer2\bin\Debug\DoubleBuffer2.exe
+D:\doc\c#\DoubleBuffer2\bin\Debug\DoubleBuffer2.pdb
+D:\doc\c#\DoubleBuffer2\obj\Debug\DoubleBuffer2.Form1.resources
+D:\doc\c#\DoubleBuffer2\obj\Debug\DoubleBuffer2.Properties.Resources.resources
+D:\doc\c#\DoubleBuffer2\obj\Debug\DoubleBuffer2.csproj.GenerateResource.cache
+D:\doc\c#\DoubleBuffer2\obj\Debug\DoubleBuffer2.csproj.CoreCompileInputs.cache
+D:\doc\c#\DoubleBuffer2\obj\Debug\DoubleBuffer2.exe
+D:\doc\c#\DoubleBuffer2\obj\Debug\DoubleBuffer2.pdb
+D:\doc\c#\DoubleBuffer2\obj\Debug\DoubleBuffer2.csprojAssemblyReference.cache

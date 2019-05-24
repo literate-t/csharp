@@ -1,0 +1,9 @@
+D:\doc\c#\Background\bin\Debug\Background.exe.config
+D:\doc\c#\Background\bin\Debug\Background.exe
+D:\doc\c#\Background\bin\Debug\Background.pdb
+D:\doc\c#\Background\obj\Debug\Background.Form1.resources
+D:\doc\c#\Background\obj\Debug\Background.Properties.Resources.resources
+D:\doc\c#\Background\obj\Debug\Background.csproj.GenerateResource.cache
+D:\doc\c#\Background\obj\Debug\Background.csproj.CoreCompileInputs.cache
+D:\doc\c#\Background\obj\Debug\Background.exe
+D:\doc\c#\Background\obj\Debug\Background.pdb

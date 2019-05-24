@@ -1,0 +1,10 @@
+D:\doc\c#\KeyDown\bin\Debug\KeyDown.exe.config
+D:\doc\c#\KeyDown\bin\Debug\KeyDown.exe
+D:\doc\c#\KeyDown\bin\Debug\KeyDown.pdb
+D:\doc\c#\KeyDown\obj\Debug\KeyDown.csprojAssemblyReference.cache
+D:\doc\c#\KeyDown\obj\Debug\KeyDown.Form1.resources
+D:\doc\c#\KeyDown\obj\Debug\KeyDown.Properties.Resources.resources
+D:\doc\c#\KeyDown\obj\Debug\KeyDown.csproj.GenerateResource.cache
+D:\doc\c#\KeyDown\obj\Debug\KeyDown.csproj.CoreCompileInputs.cache
+D:\doc\c#\KeyDown\obj\Debug\KeyDown.exe
+D:\doc\c#\KeyDown\obj\Debug\KeyDown.pdb

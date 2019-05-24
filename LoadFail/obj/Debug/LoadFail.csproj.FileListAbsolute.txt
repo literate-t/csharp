@@ -1,0 +1,9 @@
+D:\doc\c#\LoadFail\bin\Debug\LoadFail.exe.config
+D:\doc\c#\LoadFail\bin\Debug\LoadFail.exe
+D:\doc\c#\LoadFail\bin\Debug\LoadFail.pdb
+D:\doc\c#\LoadFail\obj\Debug\LoadFail.Form1.resources
+D:\doc\c#\LoadFail\obj\Debug\LoadFail.Properties.Resources.resources
+D:\doc\c#\LoadFail\obj\Debug\LoadFail.csproj.GenerateResource.cache
+D:\doc\c#\LoadFail\obj\Debug\LoadFail.csproj.CoreCompileInputs.cache
+D:\doc\c#\LoadFail\obj\Debug\LoadFail.exe
+D:\doc\c#\LoadFail\obj\Debug\LoadFail.pdb

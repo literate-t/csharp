@@ -1,0 +1,9 @@
+D:\doc\c#\MouseDown\bin\Debug\MouseDown.exe.config
+D:\doc\c#\MouseDown\bin\Debug\MouseDown.exe
+D:\doc\c#\MouseDown\bin\Debug\MouseDown.pdb
+D:\doc\c#\MouseDown\obj\Debug\MouseDown.Form1.resources
+D:\doc\c#\MouseDown\obj\Debug\MouseDown.Properties.Resources.resources
+D:\doc\c#\MouseDown\obj\Debug\MouseDown.csproj.GenerateResource.cache
+D:\doc\c#\MouseDown\obj\Debug\MouseDown.csproj.CoreCompileInputs.cache
+D:\doc\c#\MouseDown\obj\Debug\MouseDown.exe
+D:\doc\c#\MouseDown\obj\Debug\MouseDown.pdb

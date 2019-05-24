@@ -1,0 +1,9 @@
+D:\doc\c#\Shown\bin\Debug\Shown.exe.config
+D:\doc\c#\Shown\bin\Debug\Shown.exe
+D:\doc\c#\Shown\bin\Debug\Shown.pdb
+D:\doc\c#\Shown\obj\Debug\Shown.Form1.resources
+D:\doc\c#\Shown\obj\Debug\Shown.Properties.Resources.resources
+D:\doc\c#\Shown\obj\Debug\Shown.csproj.GenerateResource.cache
+D:\doc\c#\Shown\obj\Debug\Shown.csproj.CoreCompileInputs.cache
+D:\doc\c#\Shown\obj\Debug\Shown.exe
+D:\doc\c#\Shown\obj\Debug\Shown.pdb

@@ -1,0 +1,9 @@
+D:\doc\c#\MouseClick\bin\Debug\MouseClick.exe.config
+D:\doc\c#\MouseClick\bin\Debug\MouseClick.exe
+D:\doc\c#\MouseClick\bin\Debug\MouseClick.pdb
+D:\doc\c#\MouseClick\obj\Debug\MouseClick.Form1.resources
+D:\doc\c#\MouseClick\obj\Debug\MouseClick.Properties.Resources.resources
+D:\doc\c#\MouseClick\obj\Debug\MouseClick.csproj.GenerateResource.cache
+D:\doc\c#\MouseClick\obj\Debug\MouseClick.csproj.CoreCompileInputs.cache
+D:\doc\c#\MouseClick\obj\Debug\MouseClick.exe
+D:\doc\c#\MouseClick\obj\Debug\MouseClick.pdb

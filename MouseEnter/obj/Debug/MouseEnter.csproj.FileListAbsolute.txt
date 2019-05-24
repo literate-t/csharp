@@ -1,0 +1,9 @@
+D:\doc\c#\MouseEnter\bin\Debug\MouseEnter.exe.config
+D:\doc\c#\MouseEnter\bin\Debug\MouseEnter.exe
+D:\doc\c#\MouseEnter\bin\Debug\MouseEnter.pdb
+D:\doc\c#\MouseEnter\obj\Debug\MouseEnter.Form1.resources
+D:\doc\c#\MouseEnter\obj\Debug\MouseEnter.Properties.Resources.resources
+D:\doc\c#\MouseEnter\obj\Debug\MouseEnter.csproj.GenerateResource.cache
+D:\doc\c#\MouseEnter\obj\Debug\MouseEnter.csproj.CoreCompileInputs.cache
+D:\doc\c#\MouseEnter\obj\Debug\MouseEnter.exe
+D:\doc\c#\MouseEnter\obj\Debug\MouseEnter.pdb

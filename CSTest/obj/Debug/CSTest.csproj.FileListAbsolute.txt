@@ -1,0 +1,7 @@
+D:\doc\c#\CSTest\bin\Debug\CSTest.exe.config
+D:\doc\c#\CSTest\bin\Debug\CSTest.exe
+D:\doc\c#\CSTest\bin\Debug\CSTest.pdb
+D:\doc\c#\CSTest\obj\Debug\CSTest.csprojAssemblyReference.cache
+D:\doc\c#\CSTest\obj\Debug\CSTest.csproj.CoreCompileInputs.cache
+D:\doc\c#\CSTest\obj\Debug\CSTest.exe
+D:\doc\c#\CSTest\obj\Debug\CSTest.pdb

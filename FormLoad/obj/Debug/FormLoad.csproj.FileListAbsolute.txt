@@ -1,0 +1,10 @@
+D:\doc\c#\FormLoad\bin\Debug\FormLoad.exe.config
+D:\doc\c#\FormLoad\bin\Debug\FormLoad.exe
+D:\doc\c#\FormLoad\bin\Debug\FormLoad.pdb
+D:\doc\c#\FormLoad\obj\Debug\FormLoad.csprojAssemblyReference.cache
+D:\doc\c#\FormLoad\obj\Debug\FormLoad.Form1.resources
+D:\doc\c#\FormLoad\obj\Debug\FormLoad.Properties.Resources.resources
+D:\doc\c#\FormLoad\obj\Debug\FormLoad.csproj.GenerateResource.cache
+D:\doc\c#\FormLoad\obj\Debug\FormLoad.csproj.CoreCompileInputs.cache
+D:\doc\c#\FormLoad\obj\Debug\FormLoad.exe
+D:\doc\c#\FormLoad\obj\Debug\FormLoad.pdb

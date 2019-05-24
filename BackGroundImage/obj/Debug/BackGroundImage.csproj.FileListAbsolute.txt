@@ -1,0 +1,10 @@
+D:\doc\c#\BackGroundImage\bin\Debug\BackGroundImage.exe.config
+D:\doc\c#\BackGroundImage\bin\Debug\BackGroundImage.exe
+D:\doc\c#\BackGroundImage\bin\Debug\BackGroundImage.pdb
+D:\doc\c#\BackGroundImage\obj\Debug\BackGroundImage.csprojAssemblyReference.cache
+D:\doc\c#\BackGroundImage\obj\Debug\BackGroundImage.Form1.resources
+D:\doc\c#\BackGroundImage\obj\Debug\BackGroundImage.Properties.Resources.resources
+D:\doc\c#\BackGroundImage\obj\Debug\BackGroundImage.csproj.GenerateResource.cache
+D:\doc\c#\BackGroundImage\obj\Debug\BackGroundImage.csproj.CoreCompileInputs.cache
+D:\doc\c#\BackGroundImage\obj\Debug\BackGroundImage.exe
+D:\doc\c#\BackGroundImage\obj\Debug\BackGroundImage.pdb

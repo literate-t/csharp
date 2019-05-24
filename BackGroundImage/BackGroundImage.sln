@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGroundImage", "BackGroundImage.csproj", "{642CE301-0A19-491A-87DF-19BCC4462EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{642CE301-0A19-491A-87DF-19BCC4462EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642CE301-0A19-491A-87DF-19BCC4462EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642CE301-0A19-491A-87DF-19BCC4462EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642CE301-0A19-491A-87DF-19BCC4462EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782BEAA6-4086-459A-A3DA-D6E9E7E011AD}
+	EndGlobalSection
+EndGlobal
